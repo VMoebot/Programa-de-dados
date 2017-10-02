@@ -64,5 +64,4 @@ function impar(resultado) //funcion para obtener si es impar
         bandera=1;
     }
    return bandera;
-//---
 }
